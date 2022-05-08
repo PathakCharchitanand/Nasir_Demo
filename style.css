@@ -1,1 +1,14 @@
+h1 {
+  color: rebeccapurple;
+  font-family: sans-serif;
+}
 
+h2 {
+  color: pink;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+  color: yellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
